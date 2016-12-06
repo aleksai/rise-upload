@@ -1,0 +1,947 @@
+{
+  "content" : [ {
+    "name" : "Accent Outdoor Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Outdoor Lighting"
+  }, {
+    "name" : "Air Purifying Plant",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Plants and Trees",
+    "subCategory" : "Plants"
+  }, {
+    "name" : "Air to Air Heat Pump",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Air to Water Heat Pump",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Aluminum or Metal Window Framing",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Framing"
+  }, {
+    "name" : "Aluminum Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Metal"
+  }, {
+    "name" : "Asphalt Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Awning Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Type"
+  }, {
+    "name" : "Ballasts and Drivers",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Lighting Controls"
+  }, {
+    "name" : "Bamboo Flooring",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Bamboo"
+  }, {
+    "name" : "Batts and Rolls Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Biomass Heater",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Blown-in or Loose fill Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Brick Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Stone"
+  }, {
+    "name" : "Carpeting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Carpet"
+  }, {
+    "name" : "Casement Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Type"
+  }, {
+    "name" : "Catch Basin",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Architectural Features",
+    "subCategory" : "Exterior"
+  }, {
+    "name" : "Cedar Decking",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior and Landscaping",
+    "subCategory" : "Decking"
+  }, {
+    "name" : "Ceiling",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Paints and Coats",
+    "subCategory" : "Interior Paint"
+  }, {
+    "name" : "CFL Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Light Bulbs"
+  }, {
+    "name" : "Clay Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Composite Decking",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior and Landscaping",
+    "subCategory" : "Decking"
+  }, {
+    "name" : "Composite or Engineered Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Wood Products"
+  }, {
+    "name" : "Composite Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Composite Window Framing",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Framing"
+  }, {
+    "name" : "Composting Toilet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_0/v1471531266/prodmedia/Composting_Toilet.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Toilets"
+  }, {
+    "name" : "Concrete Block Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Concrete Flooring",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Concrete"
+  }, {
+    "name" : "Concrete Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Copper Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Metal"
+  }, {
+    "name" : "Cork Flooring",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Cork"
+  }, {
+    "name" : "Cotton or Denim Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Dimmer Switch",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Lighting Controls"
+  }, {
+    "name" : "Double Hung Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_4/v1471531384/prodmedia/Double_Hung_Window.jpg",
+    "category" : "Windows",
+    "subCategory" : "Type"
+  }, {
+    "name" : "Drain Water Heat Recovery System",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Dual Flush Toilet",
+    "thumbnailUrl" : "http://res.cloudinary.com/hdxsexu67/video/upload/c_scale,h_125,q_auto,so_4.5/v1476201067/dual_flush_toilet_sijxin.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Toilets"
+  }, {
+    "name" : "Dual Pane Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,h_100,q_auto,so_5/v1471538201/prodmedia/Window_Panes.jpg",
+    "category" : "Windows",
+    "subCategory" : "Assembly"
+  }, {
+    "name" : "Ductless Mini Split Heat Pump",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,g_center/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Electric Baseboards",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Electric Car Charger",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Vehicle Charging"
+  }, {
+    "name" : "Electric Thermal Storage",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Energy Recovery Ventilation (ERV)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Ventilation (HRV and others)",
+    "subCategory" : "None"
+  }, {
+    "name" : "Energy Star Bathroom Fan",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Fixtures"
+  }, {
+    "name" : "Energy Star Ceiling Fan",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Fixtures"
+  }, {
+    "name" : "Energy Star Ceiling Light",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Fixtures"
+  }, {
+    "name" : "Energy Star Central Air Conditioning (CAC)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Energy Star Clothes Dryer",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1475169349/Energy_Star_Clothes_Washer_and_Dryer_hoqzqm.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Clothes Dryer"
+  }, {
+    "name" : "Energy Star Clothes Washer",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1475169349/Energy_Star_Clothes_Washer_and_Dryer_hoqzqm.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Clothes Washer"
+  }, {
+    "name" : "Energy Star Desk Lamp",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Fixtures"
+  }, {
+    "name" : "Energy Star Dishwasher",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1475169349/Energy_Star_Dishwasher_xqvpsd.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Dishwasher"
+  }, {
+    "name" : "Energy Star Ductless Mini Split Heat Pump",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Energy Star Exterior Door",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Doors",
+    "subCategory" : "Exterior Doors"
+  }, {
+    "name" : "Energy Star Floor Lamp",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Fixtures"
+  }, {
+    "name" : "Energy Star Freezer",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Appliances",
+    "subCategory" : "Refrigerator and Freezer"
+  }, {
+    "name" : "Energy Star Range Hood",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Appliances",
+    "subCategory" : "Range Hood"
+  }, {
+    "name" : "Energy Star Refrigerator",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_13/v1475169349/Energy_Star_Refrigerator_mwpr25.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Refrigerator and Freezer"
+  }, {
+    "name" : "Energy Star Television",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Appliances",
+    "subCategory" : "TV"
+  }, {
+    "name" : "Energy Star Wall Light",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Fixtures"
+  }, {
+    "name" : "Energy Star Water Heater",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_fill,g_center,h_100,q_auto,so_5/v1471538102/prodmedia/Water_Heater_Gas_with_Tank.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Engineered Hardwood",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Hardwood"
+  }, {
+    "name" : "Fiberglass Window Framing",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Framing"
+  }, {
+    "name" : "Fixed Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Type"
+  }, {
+    "name" : "Foam or Rigid Board Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_west,h_100,q_auto,so_6/v1471537583/prodmedia/Rigid_Insulation.jpg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Forced Air",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Distribution"
+  }, {
+    "name" : "Formaldehyde-free MDF cabinet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_13/v1471530480/prodmedia/Cabinets.jpg",
+    "category" : "Finish and Trim",
+    "subCategory" : "Cabinetry"
+  }, {
+    "name" : "FSC Certified Hardwood",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Hardwood"
+  }, {
+    "name" : "FSC Certified Wood Cabinet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_13/v1471530480/prodmedia/Cabinets.jpg",
+    "category" : "Finish and Trim",
+    "subCategory" : "Cabinetry"
+  }, {
+    "name" : "Galvanised Steel Door",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Doors",
+    "subCategory" : "Exterior Doors"
+  }, {
+    "name" : "Galvanised Steel Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,g_center/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Metal"
+  }, {
+    "name" : "Gas Cooktop",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_1/v1471535126/prodmedia/Gas_Cooktop.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Range and Stove"
+  }, {
+    "name" : "Gas Filled Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Glazing"
+  }, {
+    "name" : "Gas Fireplace",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_2.3/v1471535232/prodmedia/Gas_Fire_Place.jpg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Gas Range",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_1/v1471535399/prodmedia/Gas_Range.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Range and Stove"
+  }, {
+    "name" : "Geothermal Heat Pump (Closed Loop Water to Air)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Geothermal Heat Pump (Closed Loop Water to Water)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Geothermal Heat Pump (Open Loop Water to Air)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Geothermal Heat Pump (Open Loop Water to Water)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Green Roof (Extensive or Intensive)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_.7/v1471535555/prodmedia/Green_Roof.jpg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Heat Absorbing Window Tint",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Glazing"
+  }, {
+    "name" : "Heat Pump Water Heater",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Heat Recovery Ventilation (HRV)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471535704/prodmedia/HRV_Unit.jpg",
+    "category" : "Ventilation (HRV and others)",
+    "subCategory" : "None"
+  }, {
+    "name" : "Hemp Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "High Efficiency Bathroom Faucet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,so_1.3/v1470681168/prodmedia/Bath_Faucet.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Faucets"
+  }, {
+    "name" : "High Efficiency Boiler",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "High Efficiency Electric Furnace",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "High Efficiency Gas Furnace",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "High Efficiency Kitchen Faucet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_6/v1471536823/prodmedia/Kitchen_Faucet.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Faucets"
+  }, {
+    "name" : "High Efficiency Showerhead",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471537082/prodmedia/Low_Flow_Shower.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Shower Systems"
+  }, {
+    "name" : "Hopper Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Type"
+  }, {
+    "name" : "Hot Water Baseboard",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Distribution"
+  }, {
+    "name" : "ICF (Insulated Concrete Forms)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_6/v1471535918/prodmedia/ICF.jpg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Incandescant Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Light Bulbs"
+  }, {
+    "name" : "Induction Cooktop",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,h_100,q_auto,so_5/v1471536011/prodmedia/Induction_Cooktop.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Range and Stove"
+  }, {
+    "name" : "Induction Range",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_6/v1471536111/prodmedia/Induction_Range.jpg",
+    "category" : "Appliances",
+    "subCategory" : "Range and Stove"
+  }, {
+    "name" : "Insulated Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Glazing"
+  }, {
+    "name" : "Integrated LED",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471537010/prodmedia/LED_Potlight.jpg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Light Bulbs"
+  }, {
+    "name" : "Laminate",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "hardwood"
+  }, {
+    "name" : "LED Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,h_100,q_auto,so_5/v1471536896/prodmedia/LED_Bulb.jpg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Light Bulbs"
+  }, {
+    "name" : "LED Strip Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Light Bulbs"
+  }, {
+    "name" : "Low-Emissivity Window Coating",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Glazing"
+  }, {
+    "name" : "Low-Flow Bathroom Faucet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,so_1.3/v1470681168/prodmedia/Bath_Faucet.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Faucets"
+  }, {
+    "name" : "Low-Flow Kitchen Faucet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_6/v1471536823/prodmedia/Kitchen_Faucet.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Faucets"
+  }, {
+    "name" : "Low-Flow Showerhead",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471537082/prodmedia/Low_Flow_Shower.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Shower Systems"
+  }, {
+    "name" : "Low-Flow Toilet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Toilets"
+  }, {
+    "name" : "Marmoleum Flooring",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Marmoleum"
+  }, {
+    "name" : "Metal Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_south,h_200,q_auto,so_5,w_200/v1471537252/prodmedia/Metal_Roof.jpg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Micro-Hydro",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Renewable Energy",
+    "subCategory" : "Hydro"
+  }, {
+    "name" : "Occupancy Sensor",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Lighting Controls"
+  }, {
+    "name" : "OLED Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Light Bulbs"
+  }, {
+    "name" : "Outlet and Switch Gasket",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Lighting Controls"
+  }, {
+    "name" : "Paint",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Paints and Coats",
+    "subCategory" : "Exterior Paint"
+  }, {
+    "name" : "Parallel Chord Roof Truss",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Framing and Lumber",
+    "subCategory" : "Trusses"
+  }, {
+    "name" : "Patio Stone",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior and Landscaping",
+    "subCategory" : "Patio"
+  }, {
+    "name" : "Pellet Stove",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Pole Mounted Outdoor Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Outdoor Lighting"
+  }, {
+    "name" : "Portable Space Heaters",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Pre-finished Steel Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Metal"
+  }, {
+    "name" : "Pressure Treated Decking",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior and Landscaping",
+    "subCategory" : "Decking"
+  }, {
+    "name" : "Primer",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Paints and Coats",
+    "subCategory" : "Interior Paint"
+  }, {
+    "name" : "Programmable Thermostat",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471537341/prodmedia/Programmable_Thermostat.jpg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Control"
+  }, {
+    "name" : "Radiant Floors (Air Heated)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Distribution"
+  }, {
+    "name" : "Radiant Floors (Electric)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Radiant Floors (Hydronic)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471535802/prodmedia/Hydronic_Heating.jpg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Distribution"
+  }, {
+    "name" : "Radiant Panels (in-wall or ceiling)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Distribution"
+  }, {
+    "name" : "Radiant Walls (Hydronic)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Distribution"
+  }, {
+    "name" : "Rainwater Harvesting System",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471537469/prodmedia/Rain_Water_Collection.jpg",
+    "category" : "Exterior and Landscaping",
+    "subCategory" : "Rainwater"
+  }, {
+    "name" : "Rainwater Scupper",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Architectural Features",
+    "subCategory" : "Exterior"
+  }, {
+    "name" : "Raised Heel Truss",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Framing and Lumber",
+    "subCategory" : "Trusses"
+  }, {
+    "name" : "Reclaimed Hardwood",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Hardwood"
+  }, {
+    "name" : "Reclaimed Wood Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Wood Products"
+  }, {
+    "name" : "Reflective Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Reflective Window Coating",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Glazing"
+  }, {
+    "name" : "Rigid Fiber Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Roof Flashing",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Underlayment"
+  }, {
+    "name" : "Roof Ice and Water Protection",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Underlayment"
+  }, {
+    "name" : "Rust-Proof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Paints and Coats",
+    "subCategory" : "Exterior Paint"
+  }, {
+    "name" : "Salvaged Wood Cabinet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_13/v1471530480/prodmedia/Cabinets.jpg",
+    "category" : "Finish and Trim",
+    "subCategory" : "Cabinetry"
+  }, {
+    "name" : "Slate Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Sliding Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Type"
+  }, {
+    "name" : "Smart Thermostat",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Control"
+  }, {
+    "name" : "Solar Air Heater",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Solar (Photovoltaic)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Renewable Energy",
+    "subCategory" : "Solar"
+  }, {
+    "name" : "Solar Water Heater",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto/v1471537697/prodmedia/Solar_Water_Heater.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Solid Wood Door",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Finish and Trim",
+    "subCategory" : "Interior Doors"
+  }, {
+    "name" : "Solid Wood Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_6,z_4/v1471538371/prodmedia/Wood_Siding.jpg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Wood Products"
+  }, {
+    "name" : "Spanish Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Spectrally Selective Window Coating",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Glazing"
+  }, {
+    "name" : "Spray Foam Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_west,h_100,q_auto,so_7/v1471537836/prodmedia/Spray_Foam_Insulation.jpg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Standard Thermostat",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471537922/prodmedia/Standard_Thermostat.jpg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Control"
+  }, {
+    "name" : "Standing Seam Metal Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_south,h_100,q_auto,so_5/v1471537252/prodmedia/Metal_Roof.jpg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Steam Radiant",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Distribution"
+  }, {
+    "name" : "Stone Flooring",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Stone"
+  }, {
+    "name" : "Stone Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Stone"
+  }, {
+    "name" : "Stone Veneer Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Stone"
+  }, {
+    "name" : "Straw Insulation",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Structural Insulated Panels",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Insulation and Soundproofing",
+    "subCategory" : "Insulation"
+  }, {
+    "name" : "Stucco",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Stone"
+  }, {
+    "name" : "Stucco Paint",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Paints and Coats",
+    "subCategory" : "Exterior Paint"
+  }, {
+    "name" : "Suppressed Hardwood",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Hardwood"
+  }, {
+    "name" : "Systems",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Lighting Controls"
+  }, {
+    "name" : "Tankless Coil or Indirect Water Heater",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Tankless or On-Demand Water Heater",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_5/v1471538019/prodmedia/Tankless_Water_Heater.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Tap Aerator",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Faucets"
+  }, {
+    "name" : "Tidal",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Renewable Energy",
+    "subCategory" : "Hydro"
+  }, {
+    "name" : "Tile Flooring",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Flooring",
+    "subCategory" : "Tile"
+  }, {
+    "name" : "Timer",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Lighting Controls"
+  }, {
+    "name" : "TJI - True Joist I-Joist",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Framing and Lumber",
+    "subCategory" : "Wall Assembly"
+  }, {
+    "name" : "Triple Pane Window",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,h_100,q_auto,so_5/v1471538201/prodmedia/Window_Panes.jpg",
+    "category" : "Windows",
+    "subCategory" : "Assembly"
+  }, {
+    "name" : "Ultra High Efficiency Toilet (UHET)",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Toilets"
+  }, {
+    "name" : "Vines",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior and Landscaping",
+    "subCategory" : "Plants and Trees"
+  }, {
+    "name" : "Vinyl Window Framing",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Framing"
+  }, {
+    "name" : "Wall-hung Dual Flush Toilet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,h_100,q_auto,so_5/v1471535038/prodmedia/Dual_Flush_Wall_Hung_Toilet.jpg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Toilets"
+  }, {
+    "name" : "Wall Mounted Outdoor Lighting",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Lighting and Electrical",
+    "subCategory" : "Outdoor Lighting"
+  }, {
+    "name" : "Wall Oven",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Appliances",
+    "subCategory" : "Range and Stove"
+  }, {
+    "name" : "Wall Paint",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Paints and Coats",
+    "subCategory" : "Interior Paint"
+  }, {
+    "name" : "Wall & Trim",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Paints and Coats",
+    "subCategory" : "Interior Paint"
+  }, {
+    "name" : "Water Heater Blanket",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Water Heater Pipe Wrap",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Water and Plumbing",
+    "subCategory" : "Water Heating"
+  }, {
+    "name" : "Wave",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Renewable Energy",
+    "subCategory" : "Hydro"
+  }, {
+    "name" : "Wind Turbine",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Renewable Energy",
+    "subCategory" : "Wind"
+  }, {
+    "name" : "Wood Roof",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Roof",
+    "subCategory" : "Shingles"
+  }, {
+    "name" : "Wood Shingles",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Wood Products"
+  }, {
+    "name" : "Wood Stove",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_6/v1471538294/prodmedia/Wood_Stove.jpg",
+    "category" : "Heating and Air Conditioning",
+    "subCategory" : "Heat Source"
+  }, {
+    "name" : "Wood Veneer Cabinet",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/video/upload/c_lfill,g_center,h_100,q_auto,so_13/v1471530480/prodmedia/Cabinets.jpg",
+    "category" : "Finish and Trim",
+    "subCategory" : "Cabinetry"
+  }, {
+    "name" : "Wood Window Framing",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Windows",
+    "subCategory" : "Framing"
+  }, {
+    "name" : "Zinc Siding",
+    "thumbnailUrl" : "https://res.cloudinary.com/hdxsexu67/image/upload/c_lfill,f_auto,fl_awebp,g_center,h_100,q_auto,w_165/v1473439821/default/default_tag.svg",
+    "category" : "Exterior Finishes",
+    "subCategory" : "Metal"
+  } ],
+  "totalPages" : 1,
+  "totalElements" : 186,
+  "last" : true,
+  "numberOfElements" : 186,
+  "sort" : [ {
+    "direction" : "ASC",
+    "property" : "name",
+    "ignoreCase" : false,
+    "nullHandling" : "NATIVE",
+    "ascending" : true
+  } ],
+  "first" : true,
+  "size" : 300,
+  "number" : 0
+}

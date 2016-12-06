@@ -1,0 +1,80 @@
+.photoTagger {
+  margin-top: 20px;
+  position: relative;
+
+  .imageOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: fade(#000, 30%);
+    transition: 250ms ease;
+    visibility: hidden;
+    opacity: 0;
+
+    &.visible {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+
+  .newTag {
+    position: absolute;
+    background: #FFF;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    top: 10px;
+    left: 10px;
+    transition: 250ms ease;
+    transform: scale(0.5);
+    transition-property: transform, opacity;
+    opacity: 0;
+    visibility: hidden;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.50);
+
+    &.visible {
+      transform: scale(1);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .newTagInner {
+      position: relative;
+    }
+
+    .newTagList {
+      position: absolute;
+      top: 45px;
+      left: 0px;
+      width: 220px;
+      min-height: 200px;
+      background: fade(#FFF, 90%);
+      border-radius: 5px;
+
+      &:after {
+        position: absolute;
+        content: "";
+        top: -10px;
+        left: 8px;
+
+        width: 0;
+        height: 0;
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-bottom: 10px solid fade(#FFF, 90%);
+      }
+    }
+  }
+
+  .imageContainer {
+
+    &:hover {
+      cursor: crosshair;
+    }
+    img {
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,31 @@
+@import (reference) "colors";
+.photoDetails {
+  margin: 20px 0 60px 0;
+
+  label {
+    display: block;
+    color: #888;
+    font-size: 13px;
+    margin: 0 0 5px 0;
+  }
+
+  input[type="text"], textarea {
+    background: none;
+    border: 1px solid #999;
+    width: 100%;
+    padding: 10px 8px;
+    margin: 0 0 10px 0;
+    font-size: 13px;
+    color: inherit;
+
+    &:focus {
+      outline: none;
+      border-color: @colorYellow;
+    }
+  }
+
+  textarea {
+    resize: none;
+    min-height: 100px;
+  }
+}

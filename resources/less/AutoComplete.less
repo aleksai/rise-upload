@@ -1,0 +1,49 @@
+@import (reference) "colors";
+.autoComplete {
+  padding: 14px;
+  height: 100%;
+  font-size: 14px;
+
+  .searchContainer {
+    position: relative;
+
+    .icon-search {
+      position: absolute;
+      top: 3px;
+      left: 0;
+      display: inline-block;
+      font-size: 14px;
+      color: #555;
+    }
+
+    .input {
+      border: none;
+      background: none;
+      width: 100%;
+      font-size: 15px;
+      font-family: inherit;
+      padding: 0 8px 4px 23px;
+      border-bottom: 1px solid #999;
+      margin-bottom: 15px;
+
+      &:focus {
+        outline: none;
+      }
+    }
+  }
+
+
+  .list {
+    height: 200px;
+    overflow: auto;
+
+    .listItem {
+      padding: 5px;
+
+      &:hover {
+        background: #DDD;
+        // border-radius: 20px;
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+.photoTag {
+  display: inline-block;
+  position: absolute;
+  border: 1px dotted transparent;
+
+  .tagIcon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: fade(#FFF, 80%);
+    border: 1px solid #000;
+    box-shadow: 0 0 0 4px rgba(255,255,255,0.70);
+
+    color: #333;
+    font-size: 19px;
+    line-height: 25px;
+    font-weight: 300;
+    text-align: center;
+
+    &:hover {
+      cursor: pointer;
+      border-style: solid;
+    }
+  }
+
+  .tagDetails {
+    width: 200px;
+    min-heightheight: 100px;
+    background: fade(#FFF, 90%);
+    padding: 20px;
+    font-size: 15px;
+    margin: 10px 0 0 0;
+    position: relative;
+    display: none;
+    box-shadow: 0 0 4px 0 rgba(0,0,0,0.50);
+    border-radius: 5px;
+    z-index: 10;
+
+    .name {
+      font-weight: bold;
+      margin: 0 0 5px 0;
+    }
+
+    .description {
+      font-size: 12px;
+    }
+
+    .btnInfo {
+      text-align: center;
+      border: none;
+      color: #FFF;
+      background: #AAA;
+      border-radius: 20px;
+      padding: 5px 10px;
+      margin: 10px auto 0;
+      display: inline-block;
+      cursor: pointer;
+
+      &:hover {
+        background: #999;
+      }
+    }
+
+    .btnDelete {
+      color: #AAA;
+      vertical-align: middle;
+      margin-left: 15px;
+      font-size: 24px;
+      cursor: pointer;
+
+      &:hover {
+        color: #999;
+      }
+    }
+
+    &.isVisible {
+      display: block;
+    }
+
+    &:after {
+      position: absolute;
+      content: "";
+      top: -10px;
+      left: 8px;
+
+      width: 0;
+      height: 0;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 10px solid fade(#FFF, 90%);
+    }
+  }
+}

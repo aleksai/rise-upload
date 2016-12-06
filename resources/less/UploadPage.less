@@ -1,0 +1,129 @@
+@import (reference) "colors";
+
+.uploadPage {
+  font-size: 15px;
+  position: relative;
+  height: 100%;
+  font-family: Yantramanav;
+  color: #3A3A3A;
+  h3 {
+    position: relative;
+    padding-left: 10px;
+    font-family: Anton;
+    margin: 10px 0;
+    font-size: 18px;
+    color: @colorGrayDarker;
+
+    &:before {
+      position: absolute;
+      content: '';
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 4px;
+      background: @colorYellow;
+    }
+  }
+
+  @leftSectionWidth: 300px;
+  @rightSectionWidth: 250px;
+
+  & > * {
+    position: absolute;
+    top: 0;
+
+    &.hidden {
+      display: none;
+    }
+
+    &.expanded {
+      width: 100% !important;
+
+      .fileUploadContainer .uploadText{
+        margin: 100px 0;
+        font-size: 28px;
+      }
+    }
+  }
+
+  .sectionLeft {
+    left: 0;
+    bottom: 0;
+    width: @leftSectionWidth;
+    background: #F5F5F5;
+  }
+
+  .sectionMiddle {
+    left: @leftSectionWidth;
+    right: @rightSectionWidth;
+    bottom: 0;
+    overflow-y: auto;
+  }
+
+  .sectionRight {
+    right: 0;
+    bottom: 0;
+    width: @rightSectionWidth;
+  }
+
+  .content {
+    padding: 30px;
+  }
+}
+
+.uploadLoader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: fade(#000, 90%);
+  text-align: center;
+  padding: 100px 0;
+  visibility: hidden;
+  opacity: 0;
+  transition: 250ms ease;
+
+  h2 {
+    color: #AAA;
+    text-transform: capitalize;
+  }
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .icon {
+    display: inline-block;
+    width: 125px;
+    height: 125px;
+  }
+
+  .successIcon {
+    font-size: 70px;
+    display: inline-block;
+    margin-top: 25px;
+    color: @colorYellow;
+  }
+
+  button {
+    background: none;
+    border: 1px solid #888;
+    color: #888;
+    padding: 10px 30px;
+    font-size: 16px;
+    font-weight: 300;
+    border-radius: 20px;
+    margin-top: 20px;
+
+    &:hover {
+      border-color: @colorYellow;
+      color: @colorYellow;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+}

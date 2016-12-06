@@ -1,0 +1,37 @@
+@import (reference) "mediaQuery";
+@import (reference) "colors";
+
+#app {
+}
+
+@leftPanelWidth: 200px;
+@desktopWidth: 1024px;
+@outerOffset: 0px;
+
+.leftPanel {
+  position: absolute;
+  left: @outerOffset;
+  bottom: @outerOffset;
+  top: @outerOffset;
+  padding: 20px;
+  width: @leftPanelWidth;
+  border-radius: 5px 0 0 5px;
+  background: #EDEDED;
+}
+
+.appMain {
+  position: absolute;
+  top: @outerOffset;
+  left: 0px;
+  right: @outerOffset;
+  bottom: @outerOffset;
+  overflow-y: auto;
+  padding: 0;
+  background: @mainBgColor;
+  border-radius: 0 5px 5px 0;
+
+  @media @mobileAndTablet {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+}

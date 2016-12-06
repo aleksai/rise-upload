@@ -1,0 +1,74 @@
+@import "colors";
+
+.loader {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  // margin: 0 15px 10px;
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 50%;
+    border: 3px solid #777;
+    border-top-color: @colorYellow;
+    animation: spinAnimation 0.8s infinite linear;
+  }
+}
+
+.small {
+  width: 25px;
+  height: 25px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  &:before {
+    border-width: 3px;
+  }
+}
+
+.medium {
+  width: 40px;
+  height: 40px;
+
+  &:before {
+    border-width: 4px;
+  }
+}
+
+.large {
+  width: 90px;
+  height: 90px;
+  display: block;
+  margin: 20px auto;
+
+  &:before {
+    border-width: 3px;
+  }
+
+}
+
+@keyframes spinAnimation {
+  0% {
+    transform: rotate(deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+//Themes
+.light {
+}
+.pink {
+}
