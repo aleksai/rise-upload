@@ -1,4 +1,4 @@
-# Rise Photo Upload
+# Photo Upload
 --
 #### Local Development
 
